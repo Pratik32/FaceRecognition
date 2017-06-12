@@ -1,4 +1,4 @@
-#Face Recognition System.
+# Face Recognition System.
 
 Description
 -------------------------------------
@@ -10,7 +10,9 @@ python packages required : [PyQt4](https://pypi.python.org/pypi/PyQt4),[TkLnter]
 
 Application architecture:
 
+
 ![Architecture](pca.jpg)
+
 
 ScreenShot:
 ![screenshot](image.png)
