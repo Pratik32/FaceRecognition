@@ -10,7 +10,7 @@ python packages required : [PyQt4](https://pypi.python.org/pypi/PyQt4),[TkLnter]
 
 Application architecture:
 
-![Architecture](pca.jpeg)
+![Architecture](pca.jpg)
 
 ScreenShot:
 ![screenshot](image.png)
